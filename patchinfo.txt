@@ -1,2 +1,3 @@
 DataTable\Item.edf f6f9b663aaedc63b73e9f490134c1527036064bd
+rf_online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
 SpriteImage\en-ph\loading.spr 148b9290362f918521f9408e5243362e9089c077
