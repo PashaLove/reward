@@ -9,4 +9,5 @@ DataTable\Quest.edf e8fbd42432579cfab1269b1d6eaebc3c7630ef46
 DataTable\SkillForce.edf 7d6fd7f85b79faaf4f896a63a7e18aa85e88ea6a
 rf_online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
 SpriteImage\en-ph\item.spr f74a77bd0c33741b55fa6050b69879c5cbd14834
+SpriteImage\en-ph\itemupgrade.spr 647cf0f9a25b3c75e4eac9be43b1bc603c6e85e8
 SpriteImage\en-ph\loading.spr 148b9290362f918521f9408e5243362e9089c077
