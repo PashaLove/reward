@@ -8,6 +8,6 @@ DataTable\ItemCash.edf b76d77a50f28072251e2925172e4e0d4443c98af
 DataTable\Quest.edf e8fbd42432579cfab1269b1d6eaebc3c7630ef46
 DataTable\SkillForce.edf 7d6fd7f85b79faaf4f896a63a7e18aa85e88ea6a
 rf_online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
-SpriteImage\en-ph\item.spr 9bfafa75086f7aa7b81e52f027f01b2a0e69be43
-SpriteImage\en-ph\itemupgrade.spr ecb2f09195e42c6ab7d6903fb459a790e129ec93
+SpriteImage\en-ph\item.spr aee6511f2d6d289559f043a862041c1db7a7a369
+SpriteImage\en-ph\itemupgrade.spr 5ec40084135c73c4e91f7881c44e1fce40b0cada
 SpriteImage\en-ph\loading.spr 148b9290362f918521f9408e5243362e9089c077
