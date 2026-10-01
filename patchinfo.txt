@@ -1,5 +1,6 @@
 Character\Player\Ani\BF2CA.RFS eb22c75adcbe8b31347974682dc89339c770ca26
 Character\Player\Ani\BM2CA.RFS 6bb03fa208f4c545cb5249bb46f87e3f2131f02a
+Chef\Monster.ini 2c49af072d714fc017899d94802df60ef23b9ab9
 DataTable\Character.edf b215f18fc428950509f33e919aaa7e1abfa429a6
 DataTable\en-ph\KeyMap.dat 22eb7ffdb1334292c210629de6fc88597a0fcc35
 DataTable\en-ph\KeyMap_NKM.dat f077087e35691323f3b24ac541a2c829683f77d9
