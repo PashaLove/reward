@@ -1,9 +1,9 @@
 Character\Player\Ani\BF2CA.RFS eb22c75adcbe8b31347974682dc89339c770ca26
 Character\Player\Ani\BM2CA.RFS 6bb03fa208f4c545cb5249bb46f87e3f2131f02a
-DataTable\Character.edf ced8f855b751d66d79c231852d5e97b85a5fabf1
+DataTable\Character.edf b215f18fc428950509f33e919aaa7e1abfa429a6
 DataTable\en-ph\KeyMap.dat 22eb7ffdb1334292c210629de6fc88597a0fcc35
 DataTable\en-ph\KeyMap_NKM.dat f077087e35691323f3b24ac541a2c829683f77d9
-DataTable\en-ph\NDCharacter.edf fb00114fd3f4726c517e5275e9227236c8800f50
+DataTable\en-ph\NDCharacter.edf ba8c570b4ce3866540413fe3e033a39f00737977
 DataTable\en-ph\NDItem.edf d1a33e671ae9603ac7cef55035d0ea617e614df2
 DataTable\en-ph\NDItemCash.edf 307cb82352b80815365087fec4f69b6f5e713aac
 DataTable\Item.edf 09fd5076da3059ae1c2e62bad89b1361c3abc4ad
