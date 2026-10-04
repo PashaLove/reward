@@ -17,4 +17,4 @@ SpriteImage\common\itemmake.spr bcdc09476f17bc18cbb49c462f10a5db431cfa46
 SpriteImage\en-ph\inventory.spr 0c44dedba1eee262bc24d0a69af0dc49a4ce1780
 SpriteImage\en-ph\item.spr 121615a347f394e3772991efafa175f2d4f093ee
 SpriteImage\en-ph\itemupgrade.spr 5ec40084135c73c4e91f7881c44e1fce40b0cada
-SpriteImage\en-ph\loading.spr 148b9290362f918521f9408e5243362e9089c077
+SpriteImage\en-ph\loading.spr 043c7c79a9b41eae48bf667a15af8bdab8232237
