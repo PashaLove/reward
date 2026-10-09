@@ -27,3 +27,4 @@ SpriteImage\en-ph\itemupgrade.spr 39c9c1c429644e1b6b62e07a4bca75c3980bb66a
 SpriteImage\en-ph\loading.spr 043c7c79a9b41eae48bf667a15af8bdab8232237
 System\staff.txt 16ad0acc6c6c177eb2c78b35e28ef8cc483e4eeb
 System\titlelogo.tga 9c8cd94110a43a5addf447cca45f1e40487e6862
+tes.txt da39a3ee5e6b4b0d3255bfef95601890afd80709
